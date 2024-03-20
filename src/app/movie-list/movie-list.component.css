@@ -1,0 +1,7 @@
+div{
+    text-align: center;
+}
+.left{
+    display: inline-block;
+    text-align: left;
+}
